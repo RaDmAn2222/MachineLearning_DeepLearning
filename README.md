@@ -14,4 +14,4 @@ Also, I would appreciate any contribution to the courses and sources that I have
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the GNU General Public License v3 License. See the LICENSE file for more information.
