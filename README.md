@@ -8,7 +8,9 @@ To get started with the examples, simply clone this repository and follow the in
 
 ## Contributing
 
-I welcome contributions to the repository! If you have an example that you'd like to add, please fork this repository and submit a pull request. I'll review your contribution and merge it if it meets the quality standards.
+I welcome contributions to the repository! If you have an example that you'd like to add, please fork this repository and submit a pull request. I'll review your contribution and merge it if it meets the quality 
+standards.\
+Also, I would appreciate any contribution to the courses and sources that I have mentioned in the repository.
 
 ## License
 
