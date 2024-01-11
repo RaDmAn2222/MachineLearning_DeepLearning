@@ -1,4 +1,5 @@
 # Books you may need in this field
+## These books were useful for me, they might help you too!
 
 ## Machine Learning and Deep Learning
 1. Hands-On Machine Learning with Scikit-Learn & TensorFlow

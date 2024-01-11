@@ -1,4 +1,5 @@
 # Some Courses that you can take for learning Machine Learning and Deep Learning
+## These courses helped a lot, and they can be useful for you too!
 
 1. **Machine Learning (Stanford University)**: This course is offered by Stanford University and is taught by Andrew Ng, a pioneer in the field of machine learning. The course covers a wide range of topics, including supervised learning, unsupervised learning, and deep learning. It is available on Coursera and is free to audit. The course has a 4.9-star rating from over 2.5 million students.
 

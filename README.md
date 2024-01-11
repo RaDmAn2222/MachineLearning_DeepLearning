@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning Work Samples
 
-Welcome to my repository of machine learning and deep learning work samples! This repository is a collection of curated examples that demonstrate how to build, train, and deploy machine learning models using various frameworks and libraries. My examples cover a wide range of topics, including datasets' analyzing and different algorithms. Whether you're a beginner or an experienced practitioner, you'll find something useful here. I hope you enjoy exploring my repository and learning from my examples!
+Welcome to my repository of machine learning and deep learning work samples! This repository is a collection of curated examples that demonstrate how to build, train, and deploy machine learning models using various frameworks and libraries. My examples cover a wide range of topics, including datasets' analyzing and different algorithms. Whether you're a beginner or an experienced practitioner, I hope you'll find something useful here. I hope you enjoy exploring my repository and learning from my examples!
 
 ## Getting Started
 
